@@ -12,7 +12,7 @@ To install the project dependencies, use the following command:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Usage
 ### Running Baseline of SubTaskA
@@ -21,14 +21,14 @@ To run the baseline, execute the following command or refer to the AboutTask.md 
 
 ```bash
 bash A_baseline.sh
-
+```
 ### Running Experiments
 
 To run experiments, use the following command:
 
 ```bash
 bash test.sh
-
+```
 
 if you wish to run a different experiment, ensure to modify the filename in the test.sh script. all experiment files can be found under folder SubtaskA/experiments/
 
