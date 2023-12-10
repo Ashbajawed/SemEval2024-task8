@@ -1,0 +1,8 @@
+datasets
+evaluate
+transformers[torch]
+nltk
+scikit-learn 
+scipy 
+matplotlib
+
